@@ -25,7 +25,7 @@ This project is a modern, fully responsive website designed with a clean and int
 ## How to Use
 1. **Clone or Download**: Download the repository or clone it using:
    ```
-   git clone https://github.com/your-repo/modern-website.git
+   git clone https://github.com/vittoez/modern_website.git
    ```
 2. **Open in Browser**: Navigate to the directory and open `index.html` in any modern web browser.
 3. **Customize**: Modify the HTML or CSS files to adapt the website to your needs.
@@ -35,8 +35,5 @@ This project is a modern, fully responsive website designed with a clean and int
 - **CSS3**: For styling and layout.
 - **JavaScript**: For interactivity (if applicable).
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
-
 ---
-Developed with ❤️ by [Your Name/Company]
+Developed with ❤️ by [Halley/Janis Corp]
